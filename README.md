@@ -2,18 +2,6 @@
 
 This repository contains an in-depth analysis of Bellabeat, a high-tech company that manufactures health-focused smart products for women. The objective of this project is to analyze smart device usage data to gain insights into consumer behavior and provide actionable recommendations to enhance Bellabeat's marketing strategy.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Business Task](#business-task)
-3. [Data Source](#data-source)
-4. [Data Preparation](#data-preparation)
-5. [Analysis](#analysis)
-6. [Recommendations](#recommendations)
-7. [Conclusion](#conclusion)
-8. [How to Run the Notebook](#how-to-run-the-notebook)
-9. [License](#license)
-
 ## Introduction
 
 Bellabeat is dedicated to empowering women by providing them with data-driven insights into their health and habits. By analyzing data on activity, sleep, stress, and reproductive health, Bellabeat aims to enhance its product offerings and user experience.
